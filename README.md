@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fajaede
-- 👀 I’m interested in  programmeren
-- 🌱 I’m currently learning  JSON
+- 👀 I’m interested in  programmer
+- Nog steeds bezig met het uitbreiden van mijn kennis
 - 💞️ I’m looking to collaborate on sociale platformen
 - 📫 How to reach me https://fajaedesr.fajaede.nl/contact-us
 
